@@ -3,7 +3,7 @@
 This implementation is based is based on the following paper. 
 https://nlp.stanford.edu/pubs/glove.pdf
 
-Several clusters are obtained after running the pipeline on wikipedia data. 
+Several clusters appear after running the pipeline on wikipedia data. 
 
 ## Countries & Languages Cluster 
 ![alt text](results/countries&Languages.png)
