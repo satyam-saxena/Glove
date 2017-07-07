@@ -11,7 +11,7 @@ Several clusters are obtained after running the pipeline on wikipedia data.
 ## Cluster of years and months
 ![alt text](results/years&months.png)
 
-## Cluster of millitary terms 
+## Cluster of military terms 
 ![alt text](results/millitary_terms.png)
 
 ## Cluster of musical terms 
